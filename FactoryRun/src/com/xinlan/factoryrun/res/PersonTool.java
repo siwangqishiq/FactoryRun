@@ -1,7 +1,6 @@
 package com.xinlan.factoryrun.res;
 
 /**
- * ´Ö¿ò
  * @author panyi
  *
  */
