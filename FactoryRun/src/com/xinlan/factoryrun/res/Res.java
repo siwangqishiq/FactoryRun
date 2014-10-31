@@ -8,6 +8,7 @@ import com.xinlan.factoryrun.task.Order;
 abstract class Res
 {
     protected String name;
+    protected String nickName;
     protected int id;
     protected int start;
     protected int end;

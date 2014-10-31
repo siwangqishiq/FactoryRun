@@ -12,6 +12,6 @@ public class SidewashTask extends Task
     public SidewashTask(int runTime)
     {
         super(runTime);
-        this.name = "´Ö¿ò";
+        this.name = "²àÏ´";
     }
 }//end class

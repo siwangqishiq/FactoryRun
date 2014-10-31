@@ -12,6 +12,6 @@ public class StrongboundTask extends Task
     public StrongboundTask(int runTime)
     {
         super(runTime);
-        this.name = "²àÏ´";
+        this.name = "´Ö¿ò";
     }
 }//end class
